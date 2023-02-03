@@ -1,1 +1,1 @@
-how to edit commit message
+how  to edit read me file
